@@ -14,8 +14,8 @@ public class Employee {
         this.salary = salary;
     }
 
-    public void raiseUpSalary(double Salary) {
-        this.salary = Salary;
+    public void raiseUpSalary(double newSalary) {
+        this.salary = newSalary;
     }
 
     public void changeFloor(int newFloor) {
